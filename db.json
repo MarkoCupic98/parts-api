@@ -1,0 +1,35 @@
+{
+    "category": [
+        {
+            "id": 0,
+            "name": "Monitors",
+            "models": [
+                {
+                    "modelid": "0",
+                    "modelname": "Samsung b540x",
+                    "description": [
+                        {
+                            "price": "150$",
+                            "height": "100cm",
+                            "width": "150cm",
+                            "refresh": "60hz"
+                        }
+                    ]
+                },
+
+                {
+                    "modelid": "1",
+                    "modelname": "Dell 12sp",
+                    "description": [
+                        {
+                            "price": "120$",
+                            "height": "90cm",
+                            "width": "110cm",
+                            "refresh": "77hz"
+                        }
+                    ]    
+                }
+            ] 
+        }
+    ]
+}
