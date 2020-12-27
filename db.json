@@ -10,9 +10,7 @@
                     "description": [
                         {
                             "price": "150$",
-                            "height": "100cm",
-                            "width": "150cm",
-                            "refresh": "60hz"
+                            "whereToBuy": "Tehnomanija"
                         }
                     ]
                 },
@@ -23,9 +21,35 @@
                     "description": [
                         {
                             "price": "120$",
-                            "height": "90cm",
-                            "width": "110cm",
-                            "refresh": "77hz"
+                            "whereToBuy": "Tehnomanija"
+                            
+                        }
+                    ]    
+                }
+            ] 
+        },
+        {
+            "id": 1,
+            "name": "Processors",
+            "models": [
+                {
+                    "modelid": "0",
+                    "modelname": "AMD Ryzen 5 3600 x",
+                    "description": [
+                        {
+                            "price": "250$",
+                            "whereToBuy": "Tehnomanija"
+                        }
+                    ]
+                },
+
+                {
+                    "modelid": "1",
+                    "modelname": "Intel i9",
+                    "description": [
+                        {
+                            "price": "350$",
+                            "whereToBuy": "Gigatron"
                         }
                     ]    
                 }
