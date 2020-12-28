@@ -2,58 +2,39 @@
     "category": [
         {
             "id": 0,
-            "name": "Monitors",
-            "models": [
-                {
-                    "modelid": "0",
-                    "modelname": "Samsung b540x",
-                    "description": [
-                        {
-                            "price": "150$",
-                            "whereToBuy": "Tehnomanija"
-                        }
-                    ]
-                },
-
-                {
-                    "modelid": "1",
-                    "modelname": "Dell 12sp",
-                    "description": [
-                        {
-                            "price": "120$",
-                            "whereToBuy": "Tehnomanija"
-                            
-                        }
-                    ]    
-                }
-            ] 
+            "name": "Monitors"  
         },
         {
             "id": 1,
-            "name": "Processors",
-            "models": [
-                {
-                    "modelid": "0",
-                    "modelname": "AMD Ryzen 5 3600 x",
-                    "description": [
-                        {
-                            "price": "250$",
-                            "whereToBuy": "Tehnomanija"
-                        }
-                    ]
-                },
-
-                {
-                    "modelid": "1",
-                    "modelname": "Intel i9",
-                    "description": [
-                        {
-                            "price": "350$",
-                            "whereToBuy": "Gigatron"
-                        }
-                    ]    
-                }
-            ] 
-        }
+            "name": "Processors(CPU)"
+        },
+        {
+            "id": 2,
+            "name": "Graphic cards(GPU)"
+        },
+        {
+            "id": 3,
+            "name": "Motherboards"
+        },
+        {
+            "id": 4,
+            "name": "Memory"
+        },
+        {
+            "id": 5,
+            "name": "Coolers"
+        },
+        {
+            "id": 6,
+            "name": "Power supplies(PSU)"
+        },
+        {
+            "id": 7,
+            "name": "Keyboards and mouses"
+        },
+        {
+            "id": 8,
+            "name": "Cases"
+        }     
     ]
 }
