@@ -2,39 +2,75 @@
     "category": [
         {
             "id": 0,
-            "name": "Monitors"  
+            "name": "Monitors",
+            "model": [
+                "Samsung1",
+                "samsung2"
+            ]
         },
         {
             "id": 1,
-            "name": "Processors(CPU)"
+            "name": "Processors(CPU)",
+            "model": [
+                "Ryzen",
+                "Intel"
+            ]
         },
         {
             "id": 2,
-            "name": "Graphic cards(GPU)"
+            "name": "Graphic cards(GPU)",
+            "model": [
+                "Nvidia",
+                "AMD Radeon"
+            ]
         },
         {
             "id": 3,
-            "name": "Motherboards"
+            "name": "Motherboards",
+            "model": [
+                "Asus tuff b450",
+                "Aourys"
+            ]
         },
         {
             "id": 4,
-            "name": "Memory"
+            "name": "Memory",
+            "model": [
+                "SSD",
+                "HDD"
+            ]
         },
         {
             "id": 5,
-            "name": "Coolers"
+            "name": "Coolers",
+            "model": [
+                "Cooler master",
+                "Noctua"
+            ]
         },
         {
             "id": 6,
-            "name": "Power supplies(PSU)"
+            "name": "Power supplies(PSU)",
+            "model": [
+                "450w",
+                "600w"
+            ]
         },
         {
             "id": 7,
-            "name": "Keyboards and mouses"
+            "name": "Keyboards and mouses",
+            "model": [
+                "Logitech1",
+                "Logitech2"
+            ]
         },
         {
             "id": 8,
-            "name": "Cases"
+            "name": "Cases",
+            "model": [
+                "NZXT",
+                "Cooler master"
+            ]
         }     
     ]
 }
