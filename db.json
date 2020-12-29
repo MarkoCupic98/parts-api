@@ -13,6 +13,41 @@
             "description": "Powerfull processors, for best performance",
             "whereToBuy":  "Tehnomanija, Gigatron, Comtrade",
             "image": "https://galamino.mk/wp/wp-content/uploads/2020/07/0400496-1.jpg"
-        }
+        },
+        {
+            "id": 3,
+            "name": "Monitors",
+            "description": "Reliable monitors and fair prices",
+            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade",
+            "image": "https://www.eponuda.com/racunari_monitori/samsung/1047313_l.jpg"            
+        },
+        {
+            "id": 4,
+            "name": "Monitors",
+            "description": "Reliable monitors and fair prices",
+            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade",
+            "image": "https://www.eponuda.com/racunari_monitori/samsung/1047313_l.jpg"            
+        },
+        {
+            "id": 5,
+            "name": "Monitors",
+            "description": "Reliable monitors and fair prices",
+            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade",
+            "image": "https://www.eponuda.com/racunari_monitori/samsung/1047313_l.jpg"            
+        },
+        {
+            "id": 6,
+            "name": "Monitors",
+            "description": "Reliable monitors and fair prices",
+            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade",
+            "image": "https://www.eponuda.com/racunari_monitori/samsung/1047313_l.jpg"            
+        },
+        {
+            "id": 7,
+            "name": "Monitors",
+            "description": "Reliable monitors and fair prices",
+            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade",
+            "image": "https://www.eponuda.com/racunari_monitori/samsung/1047313_l.jpg"            
+        } 
     ]
 }
