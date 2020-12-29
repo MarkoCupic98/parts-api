@@ -4,73 +4,37 @@
             "id": 0,
             "name": "Monitors",
             "model": [
-                "Samsung1",
-                "samsung2"
+                {
+                    "modelId": 1,
+                    "modelName": "Samsung bx123",
+                    "description": "Big, fast reliable, a truly limitles monitor, with a curved screen",
+                    "whereToBuy":  "Tehnomanija"
+                },
+                {
+                    "modelId": 2,
+                    "modelName": "Dell x50",
+                    "description": "Description 2",
+                    "whereToBuy":  "Gigatron"
+                }
             ]
         },
         {
             "id": 1,
             "name": "Processors(CPU)",
             "model": [
-                "Ryzen",
-                "Intel"
+                {
+                    "modelId": 1,
+                    "modelName": "Ryzen 5 3600 x",
+                    "description": "Description 3",
+                    "whereToBuy":  "ComTrade"
+                },
+                {
+                    "modelId": 2,
+                    "modelName": "Intel i9",
+                    "description": "Description 4",
+                    "whereToBuy":  "Gigatron"
+                }
             ]
-        },
-        {
-            "id": 2,
-            "name": "Graphic cards(GPU)",
-            "model": [
-                "Nvidia",
-                "AMD Radeon"
-            ]
-        },
-        {
-            "id": 3,
-            "name": "Motherboards",
-            "model": [
-                "Asus tuff b450",
-                "Aourys"
-            ]
-        },
-        {
-            "id": 4,
-            "name": "Memory",
-            "model": [
-                "SSD",
-                "HDD"
-            ]
-        },
-        {
-            "id": 5,
-            "name": "Coolers",
-            "model": [
-                "Cooler master",
-                "Noctua"
-            ]
-        },
-        {
-            "id": 6,
-            "name": "Power supplies(PSU)",
-            "model": [
-                "450w",
-                "600w"
-            ]
-        },
-        {
-            "id": 7,
-            "name": "Keyboards and mouses",
-            "model": [
-                "Logitech1",
-                "Logitech2"
-            ]
-        },
-        {
-            "id": 8,
-            "name": "Cases",
-            "model": [
-                "NZXT",
-                "Cooler master"
-            ]
-        }     
+        }  
     ]
 }
