@@ -2,39 +2,19 @@
     "category": [
         {
             "id": 0,
-            "name": "Monitors",
-            "model": [
-                {
-                    "modelId": 1,
-                    "modelName": "Samsung bx123",
-                    "description": "Big, fast reliable, a truly limitles monitor, with a curved screen",
-                    "whereToBuy":  "Tehnomanija"
-                },
-                {
-                    "modelId": 2,
-                    "modelName": "Dell x50",
-                    "description": "Description 2",
-                    "whereToBuy":  "Gigatron"
-                }
-            ]
-        },
+            "name": "Monitors"
+        },  
         {
             "id": 1,
-            "name": "Processors(CPU)",
-            "model": [
-                {
-                    "modelId": 1,
-                    "modelName": "Ryzen 5 3600 x",
-                    "description": "Description 3",
-                    "whereToBuy":  "ComTrade"
-                },
-                {
-                    "modelId": 2,
-                    "modelName": "Intel i9",
-                    "description": "Description 4",
-                    "whereToBuy":  "Gigatron"
-                }
-            ]
+            "name": "Processors(CPU)"     
         }  
+    ],
+    "model": [
+        {
+            "modelId": 0,
+            "modelName": "Samsung bx123",
+            "description": "Big, fast reliable, a truly limitles monitor, with a curved screen",
+            "whereToBuy":  "Tehnomanija"
+        }
     ]
 }
