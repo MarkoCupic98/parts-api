@@ -3,80 +3,80 @@
         {
             "id": 0,
             "name": "Samsung LC24F390FHUXEN 24",
-            "description": "resolution: 1920 x 1080, price: 130e",
-            "whereToBuy":  "Tehnomanija",
+            "description": "1920 x 1080, 23.5inch, 60Hz",
+            "whereToBuy":  "Tehnomanija ~ 130e",
             "image": "https://static.tehnomanija.rs/UserFiles/products/80948.jpg",
             "urlsite": "https://www.tehnomanija.rs/it-shop/monitori/samsung-monitor-ls24f350fhuxen.html"            
         },  
         {
             "id": 1,
             "name": "Asus ROG Strix Radeon RX570",
-            "description": "8GB, price: 230e",
-            "whereToBuy":  "Comtrade",
+            "description": "8GB, GDDR5",
+            "whereToBuy":  "Comtrade ~ 230e",
             "image": "https://www.ctshop.rs/product/img/graficke-kartice/asus-rog-strix-radeon-rx570-oc-editionrog-strix-rx570-o8g-gaminggrafika-kartica-8gb-gddr5-256bit/normal/74312693_6645420663.jpg",
             "urlsite": "https://www.ctshop.rs/asus-rog-strix-radeon-rx570-oc-edition-rog-strix-rx570-o8g-gaming-graficka-kartica-8gb-gddr5-256bit.html"
         },
         {
             "id": 2,
             "name": "AMD Ryzen 5 3600X",
-            "description": "3.8GHz, price: 275e",
-            "whereToBuy":  "Gigatron",
+            "description": "3.8GHz, 7nm, 6 cores",
+            "whereToBuy":  "Gigatron ~ 275e",
             "image": "https://img.gigatron.rs/img/products/large/image5d2857d5b6780.png",
             "urlsite": "https://gigatron.rs/procesori/amd-ryzen-5-3600x-38ghz-44ghz-263382"            
         },
         {
             "id": 3,
             "name": "MSI B450-A PRO MAX",
-            "description": "AM4 Socket, price: 100e",
-            "whereToBuy":  "Gigatron",
+            "description": "AM4 Socket, ATX",
+            "whereToBuy":  "Gigatron ~ 100e",
             "image": "https://img.gigatron.rs/img/products/large/image5da5d38f40dfa.png",
             "urlsite": "https://gigatron.rs/maticne-ploce/maticna-ploca-msi-b450-a-pro-max-amd-amd-am4-amd-b450-292732"            
         },
         {
             "id": 4,
             "name": "HP 5ZU98AA 24",
-            "description": "resolution: 1920 x 1080, price: 230e",
-            "whereToBuy":  "Tehnomanija",
+            "description": "1920 x 1080, 24inch, 144Hz",
+            "whereToBuy":  "Tehnomanija ~ 230e",
             "image": "https://static.tehnomanija.rs/UserFiles/products/142770.jpg",
             "urlsite": "https://www.tehnomanija.rs/it-shop/monitori/hp-monitor-5zu98aa.html"       
         },
         {
             "id": 5,
             "name": "Njoy Ayrus 500W",
-            "description": "500W, price: 45e",
-            "whereToBuy":  "Comtrade",
+            "description": "500W, 120mm x 120mm",
+            "whereToBuy":  "Comtrade ~ 45e",
             "image": "https://www.ctshop.rs/img/products/n/j/njoy_ayrus_500_500w_pwps-050p02y-bu01b_napajanje_1__pic_4.jpg",
             "urlsite": "https://www.ctshop.rs/njoy-ayrus-500-500w-pwps-050p02y-bu01b-napajanje.html"            
         },
         {
             "id": 6,
             "name": "Asus VP228DE TN 21.5",
-            "description": "resolution: 1920 x 1080, price: 85e",
-            "whereToBuy":  "Comtrade",
+            "description": "1920 x 1080, 21.5inch, 75Hz",
+            "whereToBuy":  "Comtrade ~ 85e",
             "image": "https://www.ctshop.rs/product/img/monitori/asus-vp228de-tn-monitor-21-5-/normal/33267052_8719088477.jpg",
             "urlsite": "https://www.ctshop.rs/asus-vp228de-tn-monitor-21-5.html"            
         },
         {
             "id": 7,
             "name": "CM MASTERBOX TD500 ",
-            "description": "Micro, Mini, ATX, price: 120e",
-            "whereToBuy":  "Gigatron",
-            "image": "https://gigatron.rs/kucista/cooler-master-kuciste-masterbox-td500-mesh-white-mcb-d500d-wgnn-s01-midi-tower-micro-atx-mini-itx-atx-e-atx-ssi-ceb-bez-napajanja-bela-331372",
-            "urlsite": "https://img.gigatron.rs/img/products/large/image5e53ec93b83a6.png"            
+            "description": "Midi Tower",
+            "whereToBuy":  "Gigatron ~ 125e",
+            "image": "https://img.gigatron.rs/img/products/large/image5e53ec93b83a6.png",
+            "urlsite": "https://gigatron.rs/kucista/cooler-master-kuciste-masterbox-td500-mesh-white-mcb-d500d-wgnn-s01-midi-tower-micro-atx-mini-itx-atx-e-atx-ssi-ceb-bez-napajanja-bela-331372"            
         },
         {
             "id": 8,
             "name": "Intel i5-9400F",
-            "description": "2.9GHz, price: 170e",
-            "whereToBuy":  "Tehnomanija",
+            "description": "2.9GHz, 14nm, 6 cores",
+            "whereToBuy":  "Tehnomanija ~ 170e",
             "image": "https://static.tehnomanija.rs/UserFiles/products/146017.jpg",
             "urlsite": "https://www.tehnomanija.rs/it-shop/procesori/intel-procesor-lga1151i5-9400f.html"            
         },
         {
             "id": 9,
             "name": "KINGSTON HyperX FURY RGB 16GB",
-            "description": "3200Mhz, price: 100e",
-            "whereToBuy":  "Gigatron",
+            "description": "3200Mhz, DD4, 2x8GB",
+            "whereToBuy":  "Gigatron ~ 100e",
             "image": "https://img.gigatron.rs/img/products/large/image5d88b7aea8b93.png",
             "urlsite": "https://gigatron.rs/memorije/memorija-kingston-hyperx-fury-rgb-16gb-2-x-8gb-ddr4-3200mhz-cl16-hx432c16fb3ak216-16gb-kit-ddr4-3200mhz-cl16-285557"            
         }
