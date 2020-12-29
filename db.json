@@ -2,17 +2,17 @@
     "category": [
         {
             "id": 0,
-            "name": "Monitors",
-            "description": "Reliable monitors and fair prices",
-            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade",
-            "image": "https://www.eponuda.com/racunari_monitori/samsung/1047313_l.jpg"            
+            "name": "Samsung LC24F390FHUXEN 24",
+            "description": "resolution: 1920 x 1080, refresh: 60 Hz, 4ms",
+            "whereToBuy":  "Tehnomanija",
+            "image": "https://static.tehnomanija.rs/UserFiles/products/80948.jpg"            
         },  
         {
             "id": 1,
-            "name": "Processors(CPU)",
-            "description": "Powerfull processors, for best performance",
-            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade",
-            "image": "https://galamino.mk/wp/wp-content/uploads/2020/07/0400496-1.jpg"
+            "name": "HP 5ZU98AA 24",
+            "description": "resolution: 1920 x 1080, refresh: 144 Hz, 1ms",
+            "whereToBuy":  "https://www.tehnomanija.rs/it-shop/monitori/hp-monitor-5zu98aa.html",
+            "image": "https://static.tehnomanija.rs/UserFiles/products/142770.jpg"
         },
         {
             "id": 3,
