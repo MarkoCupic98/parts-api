@@ -3,26 +3,16 @@
         {
             "id": 0,
             "name": "Monitors",
-            "models": [  
-                    "Samsung bx123",
-                    "Samsung 124s3",
-                    "Samsung 124s3",
-                    "Samsung 124s3"    
-            ],
             "description": "Reliable monitors and fair prices",
-            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade"           
+            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade",
+            "image": "https://galamino.mk/wp/wp-content/uploads/2020/07/0400496-1.jpg"            
         },  
         {
             "id": 1,
             "name": "Processors(CPU)",
-            "models": [  
-                "Ryzne 1",
-                "Ryzne 2",
-                "Ryzne 3",
-                "Ryzne 4"    
-            ],
             "description": "Powerfull processors, for best performance",
-            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade"
+            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade",
+            "image": "https://galamino.mk/wp/wp-content/uploads/2020/07/0400496-1.jpg"
         }
     ]
 }
