@@ -2,19 +2,27 @@
     "category": [
         {
             "id": 0,
-            "name": "Monitors"
+            "name": "Monitors",
+            "models": [  
+                    "Samsung bx123",
+                    "Samsung 124s3",
+                    "Samsung 124s3",
+                    "Samsung 124s3"    
+            ],
+            "description": "Reliable monitors and fair prices",
+            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade"           
         },  
         {
             "id": 1,
-            "name": "Processors(CPU)"     
-        }  
-    ],
-    "model": [
-        {
-            "modelId": 0,
-            "modelName": "Samsung bx123",
-            "description": "Big, fast reliable, a truly limitles monitor, with a curved screen",
-            "whereToBuy":  "Tehnomanija"
+            "name": "Processors(CPU)",
+            "models": [  
+                "Ryzne 1",
+                "Ryzne 2",
+                "Ryzne 3",
+                "Ryzne 4"    
+            ],
+            "description": "Powerfull processors, for best performance",
+            "whereToBuy":  "Tehnomanija, Gigatron, Comtrade"
         }
     ]
 }
