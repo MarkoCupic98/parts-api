@@ -6,7 +6,7 @@
             "description": "1920 x 1080, 23.5inch, 60Hz",
             "whereToBuy":  "Tehnomanija ~ 130e",
             "image": "https://images.samsung.com/is/image/samsung/hr-curved-cf390-lc24f390fhuxen-001-front-black?$684_547_PNG$",
-            "urlsite": "https://www.tehnomanija.rs/it-shop/monitori/samsung-monitor-ls24f350fhuxen.html"            
+            "urlSite": "https://www.tehnomanija.rs/it-shop/monitori/samsung-monitor-ls24f350fhuxen.html"            
         },  
         {
             "id": 1,
@@ -14,7 +14,7 @@
             "description": "8GB, GDDR5",
             "whereToBuy":  "Comtrade ~ 230e",
             "image": "https://img.gigatron.rs/img/products/large/image592be0a22e467.png",
-            "urlsite": "https://www.ctshop.rs/asus-rog-strix-radeon-rx570-oc-edition-rog-strix-rx570-o8g-gaming-graficka-kartica-8gb-gddr5-256bit.html"
+            "urlSite": "https://www.ctshop.rs/asus-rog-strix-radeon-rx570-oc-edition-rog-strix-rx570-o8g-gaming-graficka-kartica-8gb-gddr5-256bit.html"
         },
         {
             "id": 2,
@@ -22,7 +22,7 @@
             "description": "3.8GHz, 7nm, 6 cores",
             "whereToBuy":  "Gigatron ~ 275e",
             "image": "https://img.gigatron.rs/img/products/large/image5d2857d5b6780.png",
-            "urlsite": "https://gigatron.rs/procesori/amd-ryzen-5-3600x-38ghz-44ghz-263382"            
+            "urlSite": "https://gigatron.rs/procesori/amd-ryzen-5-3600x-38ghz-44ghz-263382"            
         },
         {
             "id": 3,
@@ -30,7 +30,7 @@
             "description": "AM4 Socket, ATX",
             "whereToBuy":  "Gigatron ~ 100e",
             "image": "https://img.gigatron.rs/img/products/large/image5da5d38f40dfa.png",
-            "urlsite": "https://gigatron.rs/maticne-ploce/maticna-ploca-msi-b450-a-pro-max-amd-amd-am4-amd-b450-292732"            
+            "urlSite": "https://gigatron.rs/maticne-ploce/maticna-ploca-msi-b450-a-pro-max-amd-amd-am4-amd-b450-292732"            
         },
         {
             "id": 4,
@@ -38,7 +38,7 @@
             "description": "1920 x 1080, 24inch, 144Hz",
             "whereToBuy":  "Tehnomanija ~ 230e",
             "image": "https://product-images.www8-hp.com/digmedialib/prodimg/lowres/c06353597.png",
-            "urlsite": "https://www.tehnomanija.rs/it-shop/monitori/hp-monitor-5zu98aa.html"       
+            "urlSite": "https://www.tehnomanija.rs/it-shop/monitori/hp-monitor-5zu98aa.html"       
         },
         {
             "id": 5,
@@ -46,7 +46,7 @@
             "description": "500W, 120mm x 120mm",
             "whereToBuy":  "Comtrade ~ 45e",
             "image": "https://img.gigatron.rs/img/products/large/image569cea6f82098.png",
-            "urlsite": "https://www.ctshop.rs/njoy-ayrus-500-500w-pwps-050p02y-bu01b-napajanje.html"            
+            "urlSite": "https://www.ctshop.rs/njoy-ayrus-500-500w-pwps-050p02y-bu01b-napajanje.html"            
         },
         {
             "id": 6,
@@ -54,7 +54,7 @@
             "description": "1920 x 1080, 21.5inch, 75Hz",
             "whereToBuy":  "Comtrade ~ 85e",
             "image": "https://www.asus.com/media/global/products/Q28sqaSWvcPsIlxZ/P_setting_xxx_0_90_end_1000.png",
-            "urlsite": "https://www.ctshop.rs/asus-vp228de-tn-monitor-21-5.html"            
+            "urlSite": "https://www.ctshop.rs/asus-vp228de-tn-monitor-21-5.html"            
         },
         {
             "id": 7,
@@ -62,7 +62,7 @@
             "description": "Midi Tower",
             "whereToBuy":  "Gigatron ~ 125e",
             "image": "https://img.gigatron.rs/img/products/large/image5e53ec93b83a6.png",
-            "urlsite": "https://gigatron.rs/kucista/cooler-master-kuciste-masterbox-td500-mesh-white-mcb-d500d-wgnn-s01-midi-tower-micro-atx-mini-itx-atx-e-atx-ssi-ceb-bez-napajanja-bela-331372"            
+            "urlSite": "https://gigatron.rs/kucista/cooler-master-kuciste-masterbox-td500-mesh-white-mcb-d500d-wgnn-s01-midi-tower-micro-atx-mini-itx-atx-e-atx-ssi-ceb-bez-napajanja-bela-331372"            
         },
         {
             "id": 8,
@@ -70,7 +70,7 @@
             "description": "2.9GHz, 14nm, 6 cores",
             "whereToBuy":  "Tehnomanija ~ 170e",
             "image": "https://img.gigatron.rs/img/products/large/image5cfe33ca748ff.png",
-            "urlsite": "https://www.tehnomanija.rs/it-shop/procesori/intel-procesor-lga1151i5-9400f.html"            
+            "urlSite": "https://www.tehnomanija.rs/it-shop/procesori/intel-procesor-lga1151i5-9400f.html"            
         },
         {
             "id": 9,
@@ -78,7 +78,7 @@
             "description": "3200Mhz, DD4, 2x8GB",
             "whereToBuy":  "Gigatron ~ 100e",
             "image": "https://img.gigatron.rs/img/products/large/image5d88b7aea8b93.png",
-            "urlsite": "https://gigatron.rs/memorije/memorija-kingston-hyperx-fury-rgb-16gb-2-x-8gb-ddr4-3200mhz-cl16-hx432c16fb3ak216-16gb-kit-ddr4-3200mhz-cl16-285557"            
+            "urlSite": "https://gigatron.rs/memorije/memorija-kingston-hyperx-fury-rgb-16gb-2-x-8gb-ddr4-3200mhz-cl16-hx432c16fb3ak216-16gb-kit-ddr4-3200mhz-cl16-285557"            
         }
     ]
 }
